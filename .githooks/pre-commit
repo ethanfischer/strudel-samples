@@ -1,0 +1,3 @@
+#!/bin/sh
+# Keeps strudel.json the same as the audio files in the commit
+node build.mjs > /dev/null && git add strudel.json

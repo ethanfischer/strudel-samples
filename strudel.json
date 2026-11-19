@@ -1,5 +1,17 @@
 {
   "_base": "https://raw.githubusercontent.com/ethanfischer/strudel-samples/main/",
+  "bell": [
+    "bell.wav"
+  ],
+  "bite_record_stop": [
+    "bite_record_stop.wav"
+  ],
+  "brass_chord": [
+    "brass-chord.wav"
+  ],
+  "buzzer_wrong": [
+    "buzzer_wrong.wav"
+  ],
   "ghost_stunned": [
     "ghost_stunned.wav"
   ],
@@ -12,10 +24,43 @@
   "hammeringpaintcan_paulstretch": [
     "hammeringpaintcan-paulstretch.wav"
   ],
+  "icecubes": [
+    "icecubes.wav"
+  ],
+  "jellysound": [
+    "jellysound.wav"
+  ],
+  "lel": [
+    "lel.wav"
+  ],
+  "musicstopscratch": [
+    "musicstopscratch.wav"
+  ],
   "nicechord": [
     "nicechord.wav"
   ],
+  "pour": [
+    "pour.wav"
+  ],
+  "shiba_raw": [
+    "shiba_raw.wav"
+  ],
+  "shopbell": [
+    "shopbell.wav"
+  ],
+  "splat": [
+    "splat.wav"
+  ],
+  "typewriterkey": [
+    "typewriterkey.wav"
+  ],
   "veggiechop": [
     "veggiechop.wav"
+  ],
+  "waterdroplet": [
+    "waterdroplet.wav"
+  ],
+  "wobbleboard": [
+    "wobbleboard.mp3"
   ]
 }

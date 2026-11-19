@@ -13,8 +13,9 @@ Each WAV file is a sound with the name of the file. `-` and other characters bec
 
 ## Add a sample
 
-1. Put the WAV file in this folder.
-2. Run `node build.mjs`. It updates `strudel.json`.
-3. Commit and push.
+1. Put the audio file (WAV, MP3, OGG or FLAC) in this folder.
+2. Commit and push. A pre-commit hook runs `node build.mjs`, which updates `strudel.json`.
+
+After you clone this repo, run `git config core.hooksPath .githooks` once to turn on the hook.
 
 Do not rename a file that a pattern uses. The pattern then stops working.
