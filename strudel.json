@@ -1,0 +1,21 @@
+{
+  "_base": "https://raw.githubusercontent.com/ethanfischer/strudel-samples/main/",
+  "ghost_stunned": [
+    "ghost_stunned.wav"
+  ],
+  "growl_stretched": [
+    "growl-stretched.wav"
+  ],
+  "hammeredpaintcanstretched": [
+    "hammeredpaintcanstretched.wav"
+  ],
+  "hammeringpaintcan_paulstretch": [
+    "hammeringpaintcan-paulstretch.wav"
+  ],
+  "nicechord": [
+    "nicechord.wav"
+  ],
+  "veggiechop": [
+    "veggiechop.wav"
+  ]
+}
